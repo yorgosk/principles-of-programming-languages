@@ -1,5 +1,5 @@
 /*
-Author: Georgios Kamaras, 1115 2014 00058
+Author: Georgios Kamaras
 Date: 7/12/2016
 */
 
